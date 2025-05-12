@@ -1,5 +1,5 @@
 function firstNonRepeatedChar(str) {
-	for(let i=0;i<=str.length;i++)
+	for(let i=0;i<str.length;i++)
 		let check =true;
 	for(let j=0;j<str.length;j++)
 		{
