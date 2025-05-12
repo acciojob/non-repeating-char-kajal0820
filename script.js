@@ -9,7 +9,7 @@ function firstNonRepeatedChar(str) {
 				break;
 			}
 		}
-	if(check==true)
+	if(check)
 	{
 		return str[i]
 	}
